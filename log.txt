@@ -1,4 +1,6 @@
-9169369 (HEAD -> main, origin/main, origin/HEAD) Further changes to Task1.1
+6d1ba73 Task 2.1
+a8ea76e Task 1.2
+9169369 Further changes to Task1.1
 08cff4f Task 1.1 Completed
 b97881c Task 1.1 Completed
 8612ea7 Initial commit
