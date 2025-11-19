@@ -1,3 +1,6 @@
+5071807 Task 2.3
+485067e Task 2.2
+159694b Task 2.1
 6d1ba73 Task 2.1
 a8ea76e Task 1.2
 9169369 Further changes to Task1.1
